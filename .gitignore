@@ -1,0 +1,26 @@
+# =========================
+# Node & React (Frontend)
+# =========================
+node_modules/
+dist/
+build/
+.npm/
+
+# =========================
+# Python & FastAPI (Backend)
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+backend_env/
+
+# =========================
+# Secrets & OS Files
+# =========================
+.env
+.env.local
+.env.*
+.DS_Store
+Thumbs.db
